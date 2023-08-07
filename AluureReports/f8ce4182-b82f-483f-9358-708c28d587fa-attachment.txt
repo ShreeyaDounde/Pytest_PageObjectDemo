@@ -1,0 +1,2 @@
+headlessmode
+Your order has been placed successfully.
